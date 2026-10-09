@@ -1,3 +1,2 @@
 # kjic.md
-Best
-<b r>Khilender and Ishaan Project 
+Best<br>Khilender and Ishaan Project 
