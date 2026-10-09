@@ -1,2 +1,2 @@
 # kjic.md
-Best<br>print("Khilendar and Ishaan Project")
+Best<br>Khilendar and Ishaan Project
